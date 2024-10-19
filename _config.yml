@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wenxuan Liu / Homepages"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : "Wenxuan Liu(刘文选)" # &description "personal description"
 url                      : https://liuwenxuan18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liuwenxuan18/liuwenxuan18.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "You can make it!"
   location         : "China"
-  employer         : "Hunan People"
+  employer         : # "Hunan People"
   uri              : # URL
   email            : "liuwenxuan.hngy@qq.com" 
 
